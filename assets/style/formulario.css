@@ -1,0 +1,100 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: orange;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 5px 0;
+}
+
+h3{
+    color: rgb(102, 102, 246);
+    padding-left: 40px;
+    text-align: center;
+}
+
+.true {
+    margin-top: 0px;
+    background-color: black;
+}
+
+
+.container {
+    max-width: 600px;
+    height: 450px;
+    margin: 100px auto;
+    padding-left: 60px;
+    background-color: #a8a7a7;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    padding-right: 10px;
+    text-align: center;
+    color: #333;
+}
+
+form {
+    margin-top: 20px;
+}
+
+label {
+    margin-top: 30px;
+    display: block;
+    margin-bottom: 5px;
+    color: #000000;
+}
+
+input {
+    width: 94%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.boton {
+    width: 94%;
+    padding: 10px;
+    background-color: green;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+img{
+    width: 300px;
+}
+
+.checkbox {
+    display: flex;
+    align-items: center;
+}
+
+button:hover {
+    background-color: #3578e5;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+footer p{
+    margin: 0;
+}
+.footer-content {
+
+    max-width: 960px;
+    margin: 0 auto;
+}
